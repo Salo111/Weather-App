@@ -1,0 +1,32 @@
+{
+  "images" : [
+    {
+      "filename" : "HD-wallpaper-success-flat-man-morning-mountain-mountains-natural-pyramid-pyramids-world.pdf",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "light"
+        }
+      ],
+      "filename" : "HD-wallpaper-success-flat-man-morning-mountain-mountains-natural-pyramid-pyramids-world-1.pdf",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "553d69ec90d8cfe5b429fe7371da7a2c--afternoon-delight-minimal.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
